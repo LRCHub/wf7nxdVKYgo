@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "EGOIST",
+  "base_artist": "earmi",
+  "createdAt": "2026-03-04T08:05:10.850492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Egoist",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/01_Egoist_Falco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1,000,000 TIMES feat. chelly (EGOIST)",
+      "artist": "MY FIRST STORY feat. chelly (EGOIST)",
+      "has_synced": true,
+      "path": "select/02_1,000,000_TIMES_feat._chelly_(EGOIST)_MY_FIRST_STORY_feat._chelly_(EGOIST).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Egoist Hedonist",
+      "artist": "Riverside",
+      "has_synced": false,
+      "path": "select/03_Egoist_Hedonist_Riverside.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Egoist - Remix",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/04_Egoist_-_Remix_Falco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Egoist (Remix)",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/05_Egoist_(Remix)_Falco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Egoist Hedonist",
+      "artist": "Riverside",
+      "has_synced": false,
+      "path": "select/06_Egoist_Hedonist_Riverside.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "EGOIST",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/07_EGOIST_Pile.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ninelie with chelly (EGOIST)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_ninelie_with_chelly_(EGOIST)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Egoist",
+      "artist": "School Food Punishment",
+      "has_synced": true,
+      "path": "select/09_Egoist_School_Food_Punishment.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1,000,000 TIMES feat. chelly (EGOIST)",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/10_1,000,000_TIMES_feat._chelly_(EGOIST)_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Egoist (Olivia Hye)",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/11_Egoist_(Olivia_Hye)_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1,000,000 TIMES feat. chelly (EGOIST)",
+      "artist": "MY FIRST STORY, chelly (EGOIST)",
+      "has_synced": true,
+      "path": "select/12_1,000,000_TIMES_feat._chelly_(EGOIST)_MY_FIRST_STORY,_chelly_(EGOIST).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Egoist",
+      "artist": "Olivia Hye",
+      "has_synced": true,
+      "path": "select/13_Egoist_Olivia_Hye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "EGOIST(デウスのテーマ)",
+      "artist": "妖精帝國",
+      "has_synced": true,
+      "path": "select/14_EGOIST(デウスのテーマ)_妖精帝國.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "EGOIST (デウスのテーマ)",
+      "artist": "妖精帝國",
+      "has_synced": true,
+      "path": "select/15_EGOIST_(デウスのテーマ)_妖精帝國.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Egoist",
+      "artist": "Egoist",
+      "has_synced": false,
+      "path": "select/16_Egoist_Egoist.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "EGOIST",
+      "artist": "Yousei Teikoku",
+      "has_synced": true,
+      "path": "select/17_EGOIST_Yousei_Teikoku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EGOIST",
+      "artist": "earmi",
+      "has_synced": false,
+      "path": "select/pl_01_EGOIST_earmi.txt"
+    }
+  ]
+}
